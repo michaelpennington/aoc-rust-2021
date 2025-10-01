@@ -29,3 +29,6 @@ tinyjson = "2.5.1"
 
 # Solution dependencies
 itertools = "0.14"
+strum = "0.27"
+strum_macros = "0.27"
+anyhow = "1.0"
